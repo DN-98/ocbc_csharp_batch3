@@ -1,0 +1,16 @@
+d:\MyFiles\Hacktiv8\kode\belajar_csharp\Tugas1_Batch\obj\Debug\net5.0\Tugas1_Batch.csproj.AssemblyReference.cache
+d:\MyFiles\Hacktiv8\kode\belajar_csharp\Tugas1_Batch\obj\Debug\net5.0\Tugas1_Batch.GeneratedMSBuildEditorConfig.editorconfig
+d:\MyFiles\Hacktiv8\kode\belajar_csharp\Tugas1_Batch\obj\Debug\net5.0\Tugas1_Batch.AssemblyInfoInputs.cache
+d:\MyFiles\Hacktiv8\kode\belajar_csharp\Tugas1_Batch\obj\Debug\net5.0\Tugas1_Batch.AssemblyInfo.cs
+d:\MyFiles\Hacktiv8\kode\belajar_csharp\Tugas1_Batch\obj\Debug\net5.0\Tugas1_Batch.csproj.CoreCompileInputs.cache
+d:\MyFiles\Hacktiv8\kode\belajar_csharp\Tugas1_Batch\bin\Debug\net5.0\Tugas1_Batch.exe
+d:\MyFiles\Hacktiv8\kode\belajar_csharp\Tugas1_Batch\bin\Debug\net5.0\Tugas1_Batch.deps.json
+d:\MyFiles\Hacktiv8\kode\belajar_csharp\Tugas1_Batch\bin\Debug\net5.0\Tugas1_Batch.runtimeconfig.json
+d:\MyFiles\Hacktiv8\kode\belajar_csharp\Tugas1_Batch\bin\Debug\net5.0\Tugas1_Batch.runtimeconfig.dev.json
+d:\MyFiles\Hacktiv8\kode\belajar_csharp\Tugas1_Batch\bin\Debug\net5.0\Tugas1_Batch.dll
+d:\MyFiles\Hacktiv8\kode\belajar_csharp\Tugas1_Batch\bin\Debug\net5.0\ref\Tugas1_Batch.dll
+d:\MyFiles\Hacktiv8\kode\belajar_csharp\Tugas1_Batch\bin\Debug\net5.0\Tugas1_Batch.pdb
+d:\MyFiles\Hacktiv8\kode\belajar_csharp\Tugas1_Batch\obj\Debug\net5.0\Tugas1_Batch.dll
+d:\MyFiles\Hacktiv8\kode\belajar_csharp\Tugas1_Batch\obj\Debug\net5.0\ref\Tugas1_Batch.dll
+d:\MyFiles\Hacktiv8\kode\belajar_csharp\Tugas1_Batch\obj\Debug\net5.0\Tugas1_Batch.pdb
+d:\MyFiles\Hacktiv8\kode\belajar_csharp\Tugas1_Batch\obj\Debug\net5.0\Tugas1_Batch.genruntimeconfig.cache

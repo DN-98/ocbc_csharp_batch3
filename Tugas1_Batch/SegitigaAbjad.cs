@@ -1,14 +1,14 @@
 using System;
 
-class Task1
+namespace Tugas1_Batch
 {
-    public static void Main(){
-        int n=0;
-        string abjad = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-
-        Console.Write("n = ");
-        n = Convert.ToUInt16(Console.ReadLine());
-
+    class SegitigaAbjad
+{   
+    public int n;
+    private string abjad = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    public void buatSegitigaAbjad(){
+        int n = this.n;
+        // n = Convert.ToUInt16(Console.ReadLine());
         for (int i = 1; i <= n; i++)
         {   
             int p = 0;
@@ -25,9 +25,7 @@ class Task1
                         Console.Write(abjad[abjad.Length%p--]);
                     else
                         Console.Write(abjad[abjad.Length%p++]);
-                    }
-
-                    
+                    }                    
                 } else {
                     Console.Write(" ");
                 }
@@ -35,4 +33,5 @@ class Task1
             Console.WriteLine();
         }
     }
+}
 }
