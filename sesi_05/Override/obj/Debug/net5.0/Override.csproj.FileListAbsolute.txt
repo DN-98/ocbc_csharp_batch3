@@ -1,0 +1,16 @@
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_05\Override\obj\Debug\net5.0\Override.csproj.AssemblyReference.cache
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_05\Override\obj\Debug\net5.0\Override.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_05\Override\obj\Debug\net5.0\Override.AssemblyInfoInputs.cache
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_05\Override\obj\Debug\net5.0\Override.AssemblyInfo.cs
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_05\Override\obj\Debug\net5.0\Override.csproj.CoreCompileInputs.cache
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_05\Override\bin\Debug\net5.0\Override.exe
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_05\Override\bin\Debug\net5.0\Override.deps.json
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_05\Override\bin\Debug\net5.0\Override.runtimeconfig.json
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_05\Override\bin\Debug\net5.0\Override.runtimeconfig.dev.json
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_05\Override\bin\Debug\net5.0\Override.dll
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_05\Override\bin\Debug\net5.0\ref\Override.dll
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_05\Override\bin\Debug\net5.0\Override.pdb
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_05\Override\obj\Debug\net5.0\Override.dll
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_05\Override\obj\Debug\net5.0\ref\Override.dll
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_05\Override\obj\Debug\net5.0\Override.pdb
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_05\Override\obj\Debug\net5.0\Override.genruntimeconfig.cache

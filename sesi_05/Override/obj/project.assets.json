@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyFiles\\Hacktiv8\\Materi\\sesi_05\\Override\\Override.csproj",
+      "projectUniqueName": "D:\\MyFiles\\Hacktiv8\\kode\\belajar_csharp\\sesi_05\\Override\\Override.csproj",
       "projectName": "Override",
-      "projectPath": "D:\\MyFiles\\Hacktiv8\\Materi\\sesi_05\\Override\\Override.csproj",
+      "projectPath": "D:\\MyFiles\\Hacktiv8\\kode\\belajar_csharp\\sesi_05\\Override\\Override.csproj",
       "packagesPath": "C:\\Users\\DN-MAXWELL\\.nuget\\packages\\",
-      "outputPath": "D:\\MyFiles\\Hacktiv8\\Materi\\sesi_05\\Override\\obj\\",
+      "outputPath": "D:\\MyFiles\\Hacktiv8\\kode\\belajar_csharp\\sesi_05\\Override\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DN-MAXWELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

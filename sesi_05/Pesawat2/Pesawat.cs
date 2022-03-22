@@ -30,6 +30,7 @@ namespace Pesawat2
     }
 
     class Pesawat_Tempur:Pesawat{
+
         public Pesawat_Tempur(){
             Console.WriteLine("------- Tipe : Pesawat Tempur ------- ");
         }
