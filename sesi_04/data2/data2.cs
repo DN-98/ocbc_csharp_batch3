@@ -12,7 +12,10 @@ class data2
         Console.WriteLine("");
 
         foreach (string item in contoh)
-        {
+        {   
+            if(item == "Power Supply"){
+                Console.WriteLine("Ini Power Supply");
+            }
             Console.WriteLine(item);
         }
         

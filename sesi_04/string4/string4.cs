@@ -7,6 +7,9 @@ class String4
 
         string substr = stringawal.Substring(5,12);
 
+        Console.WriteLine($"panjang string awal = {stringawal.Length}");
+        Console.WriteLine($"pangjang substr = {substr.Length}");
+
         Console.WriteLine("stringawal: " + stringawal);
         Console.WriteLine("Substring: " + substr);
     }
