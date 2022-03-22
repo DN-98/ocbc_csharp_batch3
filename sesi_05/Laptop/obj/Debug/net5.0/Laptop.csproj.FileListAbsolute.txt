@@ -1,0 +1,16 @@
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Laptop\bin\Debug\net5.0\Laptop.exe
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Laptop\bin\Debug\net5.0\Laptop.deps.json
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Laptop\bin\Debug\net5.0\Laptop.runtimeconfig.json
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Laptop\bin\Debug\net5.0\Laptop.runtimeconfig.dev.json
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Laptop\bin\Debug\net5.0\Laptop.dll
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Laptop\bin\Debug\net5.0\ref\Laptop.dll
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Laptop\bin\Debug\net5.0\Laptop.pdb
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Laptop\obj\Debug\net5.0\Laptop.csproj.AssemblyReference.cache
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Laptop\obj\Debug\net5.0\Laptop.GeneratedMSBuildEditorConfig.editorconfig
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Laptop\obj\Debug\net5.0\Laptop.AssemblyInfoInputs.cache
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Laptop\obj\Debug\net5.0\Laptop.AssemblyInfo.cs
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Laptop\obj\Debug\net5.0\Laptop.csproj.CoreCompileInputs.cache
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Laptop\obj\Debug\net5.0\Laptop.dll
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Laptop\obj\Debug\net5.0\ref\Laptop.dll
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Laptop\obj\Debug\net5.0\Laptop.pdb
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Laptop\obj\Debug\net5.0\Laptop.genruntimeconfig.cache

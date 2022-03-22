@@ -1,0 +1,16 @@
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Pesawat2\obj\Debug\net5.0\Pesawat2.csproj.AssemblyReference.cache
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Pesawat2\obj\Debug\net5.0\Pesawat2.GeneratedMSBuildEditorConfig.editorconfig
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Pesawat2\obj\Debug\net5.0\Pesawat2.AssemblyInfoInputs.cache
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Pesawat2\obj\Debug\net5.0\Pesawat2.AssemblyInfo.cs
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Pesawat2\obj\Debug\net5.0\Pesawat2.csproj.CoreCompileInputs.cache
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Pesawat2\bin\Debug\net5.0\Pesawat2.exe
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Pesawat2\bin\Debug\net5.0\Pesawat2.deps.json
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Pesawat2\bin\Debug\net5.0\Pesawat2.runtimeconfig.json
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Pesawat2\bin\Debug\net5.0\Pesawat2.runtimeconfig.dev.json
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Pesawat2\bin\Debug\net5.0\Pesawat2.dll
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Pesawat2\bin\Debug\net5.0\ref\Pesawat2.dll
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Pesawat2\bin\Debug\net5.0\Pesawat2.pdb
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Pesawat2\obj\Debug\net5.0\Pesawat2.dll
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Pesawat2\obj\Debug\net5.0\ref\Pesawat2.dll
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Pesawat2\obj\Debug\net5.0\Pesawat2.pdb
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Pesawat2\obj\Debug\net5.0\Pesawat2.genruntimeconfig.cache

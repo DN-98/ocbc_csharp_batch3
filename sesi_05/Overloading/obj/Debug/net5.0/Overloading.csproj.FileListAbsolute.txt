@@ -1,0 +1,16 @@
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Overloading\bin\Debug\net5.0\Overloading.exe
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Overloading\bin\Debug\net5.0\Overloading.deps.json
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Overloading\bin\Debug\net5.0\Overloading.runtimeconfig.json
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Overloading\bin\Debug\net5.0\Overloading.runtimeconfig.dev.json
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Overloading\bin\Debug\net5.0\Overloading.dll
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Overloading\bin\Debug\net5.0\ref\Overloading.dll
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Overloading\bin\Debug\net5.0\Overloading.pdb
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Overloading\obj\Debug\net5.0\Overloading.csproj.AssemblyReference.cache
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Overloading\obj\Debug\net5.0\Overloading.GeneratedMSBuildEditorConfig.editorconfig
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Overloading\obj\Debug\net5.0\Overloading.AssemblyInfoInputs.cache
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Overloading\obj\Debug\net5.0\Overloading.AssemblyInfo.cs
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Overloading\obj\Debug\net5.0\Overloading.csproj.CoreCompileInputs.cache
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Overloading\obj\Debug\net5.0\Overloading.dll
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Overloading\obj\Debug\net5.0\ref\Overloading.dll
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Overloading\obj\Debug\net5.0\Overloading.pdb
+d:\MyFiles\Hacktiv8\Materi\sesi_05\Overloading\obj\Debug\net5.0\Overloading.genruntimeconfig.cache
