@@ -8,7 +8,7 @@ namespace Pesawat2
         }
         public string nama, jumlah_penumpang;
         public uint jumlah_roda;
-        public string ketinggian;
+        private string ketinggian;
         public string Ketinggian{
             get { return ketinggian; }
             set { ketinggian = value; }
@@ -25,18 +25,7 @@ namespace Pesawat2
         }
 
         public void sudahTerbang(){
-            Console.WriteLine($"Pesawat ini sedang berada pada ketinggian {this.ketinggian}");
-        }
-    }
-
-    class Pesawat_Tempur:Pesawat{
-
-        public Pesawat_Tempur(){
-            Console.WriteLine("------- Tipe : Pesawat Tempur ------- ");
-        }
-
-        public void terbang(string t_name) {
-            Console.WriteLine($"Pesawat Tempur dengan nama {this.nama}, mempunyai jumlah roda {this.jumlah_roda} dengan penumpang sebanyak {this.jumlah_penumpang} sedang berada pada ketinggian {this.ketinggian} akan \"Meledakkan Senjata\" pada target pesawat: {t_name}");
+            Console.WriteLine($"Pesawat ini sedang berada pada ketinggian {this.Ketinggian}");
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyFiles\\Hacktiv8\\kode\\belajar_csharp\\sesi_05\\Pesawat2\\Pesawat2.csproj": {}
+    "D:\\MyFiles\\Hacktiv8\\kode\\belajar_csharp\\sesi_07\\LoginSystem\\LoginSystem.csproj": {}
   },
   "projects": {
-    "D:\\MyFiles\\Hacktiv8\\kode\\belajar_csharp\\sesi_05\\Pesawat2\\Pesawat2.csproj": {
+    "D:\\MyFiles\\Hacktiv8\\kode\\belajar_csharp\\sesi_07\\LoginSystem\\LoginSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyFiles\\Hacktiv8\\kode\\belajar_csharp\\sesi_05\\Pesawat2\\Pesawat2.csproj",
-        "projectName": "Pesawat2",
-        "projectPath": "D:\\MyFiles\\Hacktiv8\\kode\\belajar_csharp\\sesi_05\\Pesawat2\\Pesawat2.csproj",
+        "projectUniqueName": "D:\\MyFiles\\Hacktiv8\\kode\\belajar_csharp\\sesi_07\\LoginSystem\\LoginSystem.csproj",
+        "projectName": "LoginSystem",
+        "projectPath": "D:\\MyFiles\\Hacktiv8\\kode\\belajar_csharp\\sesi_07\\LoginSystem\\LoginSystem.csproj",
         "packagesPath": "C:\\Users\\DN-MAXWELL\\.nuget\\packages\\",
-        "outputPath": "D:\\MyFiles\\Hacktiv8\\kode\\belajar_csharp\\sesi_05\\Pesawat2\\obj\\",
+        "outputPath": "D:\\MyFiles\\Hacktiv8\\kode\\belajar_csharp\\sesi_07\\LoginSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DN-MAXWELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

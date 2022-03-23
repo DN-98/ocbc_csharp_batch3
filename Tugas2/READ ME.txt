@@ -1,0 +1,10 @@
+HOW TO IMPORT SQL (MS SQL SERVER) 
+USING NAVICAT (GAMBAR LANGKAH ADA DI MS-WORD Assignment2.docx)
+===================================================================================================
+1.	BUAT DATABASE BARU. Klik Kanan pada server -> Pilih “New Database”
+2.	Masukan nama pada “Database name” -> lalu “OK”
+3.	Klik 2x pada database (db_bank2) lalu klik kanan pada database (db_bank2) pula -> lalu pilih Execute file SQL
+4.	Klik pada “...” ( ) untuk memilih file yang akan di import yakni “dbo.sql” -> lalu klik “Start”
+Tunggu hingga loading selesai -> klik “close”
+5.	Sql berhasil diimport
+ 

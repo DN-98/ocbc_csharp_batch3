@@ -1,1 +1,0 @@
-CREATE TABLE tb_siswa
