@@ -1,0 +1,10 @@
+CREATE DATABASE userdata;
+
+CREATE TABLE user_info(
+id_user INT AUTO_INCREMENT PRIMARY KEY,
+name VARCHAR(20) NOT NULL,
+username VARCHAR(100) NOT NULL,
+password VARCHAR(255) NOT NULL);
+
+ALTER TABLE user_info
+ADD CONSTRAINT uc_user_info UNIQUE (username);
