@@ -20,17 +20,17 @@ namespace LoginSystem
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void btnExit_click(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnRegister_click(object sender, EventArgs e)
         {
             
-            if (textBox3.Text == textBox4.Text)
+            if (textBoxPass.Text == textBoxRPass.Text)
             {
-                db.Execute($"INSERT INTO user_info VALUES ('','{textBox1.Text}', '{textBox2.Text}', '{textBox3.Text}')");
+                db.Execute($"INSERT INTO user_info VALUES ('','{textBoxName.Text}', '{textBoxUsername.Text}', '{textBoxPass.Text}')");
                 MessageBox.Show("Akun telah dibuat. Silahkan Login .. ");
                 this.Close();
             }

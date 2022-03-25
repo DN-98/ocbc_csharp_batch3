@@ -34,7 +34,7 @@ namespace LoginSystem
             {
                 connectionString = "SERVER=" + server + ";" + "PORT=" + port + ";" + "DATABASE=" + dbName + ";" + "UID=" + user + ";" + "PWD=" + pass + ";";
                 connection = new MySqlConnection(connectionString);
-                connection.Open();
+                
             }
             catch (Exception err)
             {
