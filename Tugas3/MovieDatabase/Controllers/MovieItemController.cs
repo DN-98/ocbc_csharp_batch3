@@ -79,6 +79,7 @@ namespace MovieDatabaseApi.Controllers
                 return NotFound();
 
             _context.Items.Remove(existItem);
+            await _context.SaveChangesAsync();
             return Ok(existItem);
         }
 

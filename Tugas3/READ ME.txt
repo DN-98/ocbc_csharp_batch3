@@ -2,6 +2,12 @@ Project MovieDatabase:
 1. Link Swagger:
 https://localhost:5001/swagger/index.html
 2. Link MovieItem:
+- HEADER
+		- menggunakan swagger
+			pada pojok kanan atas ada button authorize, silahkan login dan memasukan pada kolom value 'Bearer <kode_token>' 
+			tanpa kutip dan ganti <kode_token> dengan token yang didapat saat login
+		- menggunakan postman
+			inisiasikan header Authorization : "Bearer <kode_token>"
 - POST - https://localhost:5001/api/movedatabase/register = untuk register
 format JSON:
 {	
@@ -24,5 +30,5 @@ format JSON:
 - SQLite
 - nama_database = app.db
 
-
-FILE DOKUMENTASI
+FILE DOKUMENTASI:
+Documentation Prosedur Pembuatan WebAPI MovieDatabase.pdf

@@ -36,7 +36,6 @@ D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_09\WebAPIKantor\obj\Debug\net5.0\We
 D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_09\WebAPIKantor\obj\Debug\net5.0\WebAPIKantor.pdb
 D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_09\WebAPIKantor\obj\Debug\net5.0\WebAPIKantor.genruntimeconfig.cache
 D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_09\WebAPIKantor\obj\Debug\net5.0\ref\WebAPIKantor.dll
-D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_09\WebAPIKantor\bin\Debug\net5.0\ref\WebAPIKantor.dll
 D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_09\WebAPIKantor\obj\Debug\net5.0\staticwebassets\WebAPIKantor.StaticWebAssets.xml
 D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_09\WebAPIKantor\bin\Debug\net5.0\Microsoft.Build.dll
 D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_09\WebAPIKantor\bin\Debug\net5.0\Microsoft.Build.Framework.dll
@@ -54,3 +53,4 @@ D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_09\WebAPIKantor\bin\Debug\net5.0\Nu
 D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_09\WebAPIKantor\bin\Debug\net5.0\NuGet.ProjectModel.dll
 D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_09\WebAPIKantor\bin\Debug\net5.0\NuGet.Protocol.dll
 D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_09\WebAPIKantor\bin\Debug\net5.0\NuGet.Versioning.dll
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_09\WebAPIKantor\obj\Debug\net5.0\refint\WebAPIKantor.dll

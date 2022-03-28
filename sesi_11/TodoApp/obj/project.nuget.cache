@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eo46AoOnJwHG7gRLGQ4nXbxW3LOXjV0UpvB4vauh05AfYbQ+XbyZfdBK/guGHwRQHZEmUHp7lzpM8biO+WsErg==",
+  "dgSpecHash": "CD3QkIVCeOzgpYOlauCzKkItqQkrcT6gbGe0eKjjpe4HbViHltQ13rex/NfoTiNI8paj6aTvdNeH2OG7cxV9/Q==",
   "success": true,
-  "projectFilePath": "D:\\MyFiles\\Hacktiv8\\kode\\belajar_csharp\\sesi_10\\TodoApp\\TodoApp.csproj",
+  "projectFilePath": "D:\\MyFiles\\Hacktiv8\\kode\\belajar_csharp\\sesi_11\\TodoApp\\TodoApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DN-MAXWELL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DN-MAXWELL\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.15\\microsoft.aspnetcore.authentication.jwtbearer.5.0.15.nupkg.sha512",
