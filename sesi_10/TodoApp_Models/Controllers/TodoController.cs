@@ -1,9 +1,10 @@
+using System;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TodoApp.Models;
 using TodoApp.Data;
-using System;
+
 
 namespace TodoApp.Controllers
 {
@@ -72,6 +73,7 @@ namespace TodoApp.Controllers
                 return NotFound();
 
             _context.Items.Remove(existItem);
+            await _context.SaveChangesAsync();
             return Ok(existItem);
         }
 

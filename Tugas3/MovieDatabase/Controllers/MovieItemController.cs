@@ -1,3 +1,4 @@
+using System;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -5,7 +6,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using MovieDatabaseApi.Models;
 using MovieDatabaseApi.Data;
-using System;
+
 
 namespace MovieDatabaseApi.Controllers
 {

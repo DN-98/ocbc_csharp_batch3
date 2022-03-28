@@ -1,0 +1,28 @@
+Project MovieDatabase:
+1. Link Swagger:
+https://localhost:5001/swagger/index.html
+2. Link MovieItem:
+- POST - https://localhost:5001/api/movedatabase/register = untuk register
+format JSON:
+{	
+	"username" : "abc",
+	"email"	: "abc@gmail.com",
+	"password" : "Password12345!"
+}
+- POST - https://localhost:5001/api/movedatabase/login = untuk login
+{	
+	"email"	: "abc@gmail.com",
+	"password" : "Password12345!"
+}
+- GET - https://localhost:5001/api/MovieItem = untuk mendapatkan semua data movie
+- GET - https://localhost:5001/api/MovieItem/{id} = untuk mendapatkan data movie dengan id
+- POST - https://localhost:5001/api/MovieItem/ = untuk menambahkan MovieItem
+- PUT - https://localhost:5001/api/movieitem/2 = untuk melakukan edit MovieItem
+- DELETE - https://localhost:5001/api/movieitem/{id} = untuk melakukan delete by id
+
+3. Database : 
+- SQLite
+- nama_database = app.db
+
+
+FILE DOKUMENTASI
