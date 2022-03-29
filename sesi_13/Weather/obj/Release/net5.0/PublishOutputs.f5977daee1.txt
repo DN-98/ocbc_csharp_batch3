@@ -1,0 +1,11 @@
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_13\Weather\bin\Release\net5.0\publish\Weather.exe
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_13\Weather\bin\Release\net5.0\publish\appsettings.Development.json
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_13\Weather\bin\Release\net5.0\publish\appsettings.json
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_13\Weather\bin\Release\net5.0\publish\Weather.dll
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_13\Weather\bin\Release\net5.0\publish\Weather.deps.json
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_13\Weather\bin\Release\net5.0\publish\Weather.runtimeconfig.json
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_13\Weather\bin\Release\net5.0\publish\Weather.pdb
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_13\Weather\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_13\Weather\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_13\Weather\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MyFiles\Hacktiv8\kode\belajar_csharp\sesi_13\Weather\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
